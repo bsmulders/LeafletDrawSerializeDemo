@@ -1,8 +1,6 @@
-
-
 # backend
 
-
+Simple NodeJS/Express REST server for storing Leaflet Draw features.
 
 ## Usage
 

@@ -1,8 +1,6 @@
-
-
 # frontend
 
-
+Demonstration of storing Leaflet Draw features on an external server.
 
 ## Usage
 
