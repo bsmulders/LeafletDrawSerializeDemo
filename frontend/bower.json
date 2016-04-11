@@ -1,0 +1,24 @@
+{
+  "name": "Leaflet Draw Serialize Demo",
+  "authors": [
+    "Bobbie Smulders <mail@bsmulders.com>"
+  ],
+  "description": "A demonstration of saving Leaflet Draw layers to an external service.",
+  "main": "",
+  "moduleType": [],
+  "license": "Open",
+  "homepage": "https://bsmulders.com",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.7",
+    "angular": "~1.4.8",
+    "leaflet-draw": "leaflet.draw#~0.2.4"
+  }
+}
